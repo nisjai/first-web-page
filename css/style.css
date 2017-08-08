@@ -1,0 +1,166 @@
+.title
+{
+	width:700px;
+	margin:auto;
+	color:#0e0f0a;
+	text-align: center;
+	font-family: Impact, fantasy;
+	font-size:28px;
+	text-shadow: 5px 3px 2px #797d7f;
+
+}
+
+li
+{
+	display:inline;
+}
+ul
+{
+	list-style-type: none;
+	margin:auto;
+	padding:30px;
+	display:block;
+	
+	background-color: #e8edef;
+}
+li a
+{
+	padding:30px 25px;
+	text-decoration: none;
+	font-family: Impact, fantasy;
+	color:#242625;
+}
+.home
+{
+	background-color:#8eaee5;
+
+}
+
+li a:hover
+{
+	background-color:#4f92ff;
+}
+.sports
+{
+margin-top: 60px;
+float:left;
+width:30%;
+//border: 1px solid black;
+height:500px;
+position:relative;
+left:15px;
+//background-color: #8eaee5;
+
+}
+.movies
+{
+position: relative;
+left:35px;
+float:left;
+margin-top: 60px;
+width:33%;
+height:500px;
+//background-color: #8eaee5;
+//border:1px solid black;
+}
+.technology
+{
+
+float:left;
+position:relative;
+left:55px;
+margin-top: 60px;
+width:30%;
+height:500px;
+//background-color: #8eaee5;
+//border:1px solid black;
+}
+.news-image
+{
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom:20px;
+	border:1px solid black;
+
+}
+.news
+{
+	color:#5d5f60;
+	text-align:left;
+	font-family:arial;
+}
+h3
+{
+color:#4e4e4f;
+	text-align:left;
+	font-family:arial;
+}
+.hero-unit
+{
+	position:relative;
+	margin-bottom:5px;
+	margin-top: 5px;
+	width:100%;
+	height:300px;
+	//background-color:#8eaee5;
+}
+.top-story-image
+{
+align-content: right;
+float:right;
+margin-right: 2px;
+}
+
+.hero-unit-para
+{
+	color:#0e0f0a;
+	text-align: left;
+	font-family:Impact, fantasy;
+	font-size: 22px;
+	color:#5f6268;
+}
+footer 
+{ 
+   clear:both;
+   bottom:0;
+   width:100%;
+   
+   background-color:#1d1f23;
+
+}
+.footer-class
+{
+	
+	margin-top:5px;
+	width:100%;
+	
+}
+.more-details
+{background-color:#8eaee5;  
+  border-radius: 5px;
+  color:black;
+  padding: .5em;
+  text-decoration:none;
+}
+.modi-news
+{
+	display: block;
+    margin-right: 4%;
+    margin-bottom: 50px;
+    float: left;
+}
+h3
+{
+	display:block;
+	colot:black;
+	font-family: Raleway,sans-serif;
+}
+
+p
+{
+font-family:Lato,sans-serif;
+display:block;
+line-height:1.8;
+color:#82817e;
+}
